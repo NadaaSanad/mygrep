@@ -54,3 +54,16 @@ Reflective Section
     Ensuring the order of operations (invert first, then show line numbers, or vice versa) was consistent.
 
     Making sure error handling worked as expected and the help message displayed properly for invalid or missing arguments.
+## 📸 Screenshots
+
+**✅ Basic Search Example**
+![Basic Search](2025-04-28_19-16.png)
+
+**✅ With -n Option (Line Numbers)**
+![Line Numbers](2025-04-28_19-18.png)
+
+**✅ With -v Option (Invert Match)**
+![Invert Match](2025-04-28_19-18_1.png)
+
+**✅ Error on Missing String**
+![Missing String Error](2025-04-28_19-19.png)
